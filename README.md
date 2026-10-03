@@ -4,12 +4,12 @@
 I used a cat like outline to make its ear glow of led and also resistor to replicate its cheeks.
 
 ## Schematic
-![](assets/schematic.png)
+![](kicad1.png)
 
 ## PCB
-![](assets/pcb-front.png)
-![](assets/pcb-back.png)
-![](assets/render.png)
+![](3dpcbcat.png)
+![](catpcb.png)
+
 
 ## Features
 - Battery power
